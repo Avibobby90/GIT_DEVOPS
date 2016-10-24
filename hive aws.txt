@@ -1,0 +1,4 @@
+Public DNS
+ec2-107-20-115-217.compute-1.amazonaws.com
+
+ec2-user@ec2-54-221-145-127.compute-1.amazonaws.com
